@@ -64,34 +64,49 @@ Miami, in Florida, and Detroirt in Michigan both had relatively large sales figu
 The corportate segment was the most profitable of the customer segments. The most profitable department for  this customer segment was technology. The technology department was also the most profitble for the other customer segments as well. 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](c3.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+Iraq had about the same sales as Egypt, however it had issues in it's furniture department and a non-existent technology department. Instead of making up a third of total sales, it made up around a 1/8 of total profits for the country. 
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](c4.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+Looking at this map we can see the following routes that lose money: 
+
+1. Home office, delivery truck, Durango Colorado. 
+2. Consumer, Regular air, Boise Idaho.
+3. Home office, delivery truck, Gailsburg Illinois.
 
 ### 5 (5 points)
 
-![image](image.png?raw=true)
+![image](c5.png)
 
-{{one-paragraph-discussion-of-your-answer}}
-
+In terms of total profits, Texas significantly outperformed California in the "consumer" category. 
 ### 6 (5 points)
 
-![image](image.png?raw=true)
+![image](c6.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+We can see in this chart that delivery truck shipments to the following states lose money: 
+
+- Montana
+- California
+- North Carolina 
+- Vermont
 
 ### 7 (5 points)
 
-![image](image.png?raw=true)
+![image](c7.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+1. Total sales in Colorado: $132.2K.
 
+2. States with similar sales: Alabama, $126.7K; Maryland, $124.9K; New Jersey, $143.4K; Wisconsin, $148.7K
+
+3. These states differ in that they are each from different parts of the country. We can get a good understanding of different regions by analyzing each of the different states. We can see that the eastern states are much more pofitable with delivery trucks delivering technolgy than the western states are. 
+
+4. These states are each unique in the regular air sector. Some of them make a profit and some of them don't there doesn't seem to be any discernable pattern.
+
+5. Colorado loses a lot of money from express air furniture deliveries. It is at -384% profibility. The next lowest is New Jersey at -151.8% profitibility for its express air furniture deliveries. 
 
 # MongoDB 1
 
