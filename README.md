@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Alexander Tsankov
 
 # How many points have you earned?
 
@@ -20,11 +20,15 @@ fill-in-your-answer
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-article-comparing-nosql-and-sql)
+[NoSQL explained](http://www.mongodb.com/nosql-explained)
 
 ## What are the limitations of SQL? How are NoSQL solutions trying to address them (name three)? (7 points)
 
-fill-in-your-answer
+Some of the solutions that NoSQL offer to meet the shortcomings of SQL are:
+
+- Allow on the fly changes to the DB schema. 
+- Autosharding which allows data to be split more effectively amongst multiple devices. 
+- Generally open source, so cheaper and faster development cycles. 
 
 # Tableau (II) (3 points x 4 + 5 points x 7 = 47 points)
 
@@ -32,31 +36,31 @@ fill-in-your-answer
 
 ### 1 (3 points)
 
-![image](image.png?raw=true)
+![image](cp1.png)
 
 ### 2 (3 points)
 
-![image](image.png?raw=true)
+![image](cp2.png)
 
 ### 3 (3 points)
 
-![image](image.png?raw=true)
+![image](cp3.png)
 
 ### 4 (3 points)
 
-![image](image.png?raw=true)
+![image](cp4.png)
 
 ## Challenges
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](c1.png)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+![image](c2.png)
 
 {{one-paragraph-discussion-of-your-answer}}
 
