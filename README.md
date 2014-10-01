@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Jake Charland 
 
 # How many points have you earned?
 
@@ -20,11 +20,11 @@ fill-in-your-answer
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-article-comparing-nosql-and-sql)
+[NoSQL Databases Explained](http://www.mongodb.com/nosql-explained)
 
 ## What are the limitations of SQL? How are NoSQL solutions trying to address them (name three)? (7 points)
 
-fill-in-your-answer
+The 1st limitation is that relational databases require that you define your schema before you can add data to the table, in NoSQL there is no such restriction. Another huge advantage that NoSQL databases have over SQL is built in sharding support, because of the way NoSQL databases work it is very easy to shard your data across multiple machines, this is also possible with SQL databases but much harder to do and not always reliable. The last adavantage of a NoSQL database is the intergrated caching that comes with it that you wont find in SQL databases without using a third party tool.
 
 # Tableau (II) (3 points x 4 + 5 points x 7 = 47 points)
 
