@@ -56,14 +56,12 @@ Some of the solutions that NoSQL offer to meet the shortcomings of SQL are:
 
 ![image](c1.png)
 
-{{one-paragraph-discussion-of-your-answer}}
-
+Miami, in Florida, and Detroirt in Michigan both had relatively large sales figures as evidenced by the above-average size of their sales area, but neither of them made a large profit. We can compare this to the deeper green of large areas, especially New York and Washington DC 
 ### 2 (5 points)
 
 ![image](c2.png)
 
-{{one-paragraph-discussion-of-your-answer}}
-
+The corportate segment was the most profitable of the customer segments. The most profitable department for  this customer segment was technology. The technology department was also the most profitble for the other customer segments as well. 
 ### 3 (5 points)
 
 ![image](image.png?raw=true)
