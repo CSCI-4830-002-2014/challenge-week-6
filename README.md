@@ -19,8 +19,10 @@ Dawson Botsford
 [SQL vs NoSQL Database Differences Explained with few Example DB](http://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/)
 
 ## What are the limitations of SQL? How are NoSQL solutions trying to address them (name three)? (7 points)
+1. SQL databases have a predefined schema, so you have less flexibility in your data formatting. NoSQL allows for dynamic schema for unstructured data.
+2. SQL databases are not good for heirarchical data storage. NoSQL fixes this by having the data stored as key-value pairs.
+3. SQL databases only scale vertically, so fragmenting data may be more difficult. NoSQL fixes this by having horizontal scaling.
 
-fill-in-your-answer
 
 # Tableau (II) (3 points x 4 + 5 points x 7 = 47 points)
 
