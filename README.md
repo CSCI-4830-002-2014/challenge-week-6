@@ -1,26 +1,22 @@
 # Name
-
-write-your-name
+Dawson Botsford
 
 # How many points have you earned?
-
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
-
-fill-in-your-answer
+[loading]
 
 # What is the most difficult part about this week's challenge?
-
-fill-in-your-answer
+[loading]
 
 # Show and tell (9 points)
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-article-comparing-nosql-and-sql)
+[SQL vs NoSQL Database Differences Explained with few Example DB](http://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/)
 
 ## What are the limitations of SQL? How are NoSQL solutions trying to address them (name three)? (7 points)
 
