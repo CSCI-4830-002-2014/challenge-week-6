@@ -1,10 +1,10 @@
 # Name
 
-write-your-name
+Justin McBride
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -24,7 +24,7 @@ fill-in-your-answer
 
 ## What are the limitations of SQL? How are NoSQL solutions trying to address them (name three)? (7 points)
 
-fill-in-your-answer
+Stuff
 
 # Tableau (II) (3 points x 4 + 5 points x 7 = 47 points)
 
