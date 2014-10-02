@@ -118,22 +118,22 @@ We can see in this chart that delivery truck shipments to the following states l
 
 ### 2 (5 points)
 
-![image](mc_cp2.png)
+![image](m_cp2.png)
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](m_cp3.png)
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](m_cp4.png)
 
 ## Challenges
 
 
 ### 1 (6 points)
 
-![image](image.png?raw=true)
+![image](m_ch1.png)
 
 [mongodb1.js](mongodb1.js)
 
