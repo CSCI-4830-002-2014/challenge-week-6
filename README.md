@@ -114,11 +114,11 @@ We can see in this chart that delivery truck shipments to the following states l
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](m_cp1.png)
 
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+![image](mc_cp2.png)
 
 ### 3 (5 points)
 
