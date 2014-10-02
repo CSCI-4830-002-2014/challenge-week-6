@@ -139,7 +139,7 @@ We can see in this chart that delivery truck shipments to the following states l
 
 ### 2 (6 points)
 
-![image](image.png?raw=true)
+![image](m_ch2.png)
 
 [mongodb2.js](mongodb2.js)
 
