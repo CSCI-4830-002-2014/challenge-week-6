@@ -1,10 +1,10 @@
 # Name
 
-write-your-name
+Adrian Chen
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -20,11 +20,17 @@ fill-in-your-answer
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-article-comparing-nosql-and-sql)
+[SQL vs. NoSQL: Which Is Better?](http://news.dice.com/2012/07/16/sql-vs-nosql-which-is-better/)
 
 ## What are the limitations of SQL? How are NoSQL solutions trying to address them (name three)? (7 points)
 
-fill-in-your-answer
+Joins is relational databases are very very slow.
+
+Relational data has poor compatibilty with the complex data structures we typically use.
+
+Relational data doesn't map well.
+
+No SQL uses a nonrelational system to store data, and thus doesn't deal with these problems.
 
 # Tableau (II) (3 points x 4 + 5 points x 7 = 47 points)
 
