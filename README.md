@@ -4,7 +4,7 @@ Chris Wittenberg
 
 # How many points have you earned?
 
-53/100
+58/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -97,43 +97,43 @@ I compared all of the states in total sales in ascending order, and I chose the 
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](C6MCheckpoint1.png?raw=true)
 
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+![image](C6MCheckpoint2.png?raw=true)
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](C6MCheckpoint3.png?raw=true)
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](C6MCheckpoint4.png?raw=true)
 
 ## Challenges
 
 
 ### 1 (6 points)
 
-![image](image.png?raw=true)
+![image](C6MChallenge1.png?raw=true)
 
 [mongodb1.js](mongodb1.js)
 
 ### 2 (6 points)
 
-![image](image.png?raw=true)
+![image](C6MChallenge2.png?raw=true)
 
 [mongodb2.js](mongodb2.js)
 
 ### 3 (6 points)
 
-![image](image.png?raw=true)
+![image](C6MChallenge3.png?raw=true)
 
 [mongodb3.js](mongodb3.js)
 
 ### 4 (6 points)
 
-![image](image.png?raw=true)
+![image](C6MChallenge4.png?raw=true)
 
 [mongodb4.js](mongodb4.js)
