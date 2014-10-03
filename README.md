@@ -97,19 +97,19 @@ Stuff
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](mongoCP1.png?raw=true)
 
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+![image](mongoCP2.png?raw=true)
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](mongoCP3.png?raw=true)
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](mongoCP4.png?raw=true)
 
 ## Challenges
 
