@@ -88,7 +88,7 @@ My boss is correct. The above visulaization shows the seven most expensive state
 
 ![image](C6TChallenge7.png?raw=true)
 
-I compared all of the states by total sales in ascending order, and I chose the two states to the left of Colorado (Maryland and Alabama) and the two states to the right of Colorado (New Jersey and Wisconsin). According to my visualization, Wisconsin, Maryland and New Jersey are significantly more profitable than Colorado on an average profit basis. Like Alabama and Minnesota, Colorado gets the highest amount of sales from Technology. Compared to everyone else except Alabama, Colorado makes a pretty dismal average profit on Technology, especially when the sales volume is taken into account. However, Colorado has the highest average profit when it comes to furniture sales.
+I compared all of the states by total sales in ascending order, and I chose the two states to the left of Colorado (Maryland and Alabama) and the two states to the right of Colorado (New Jersey and Wisconsin). According to my visualization, Wisconsin, Maryland and New Jersey are significantly more profitable than Colorado on an average profit basis. Like Alabama and Minnesota, Colorado gets the highest amount of sales from Technology. Compared to everyone else except Alabama, Colorado makes a pretty dismal average profit on Technology, especially the greatest amount of sales in Colorado come from the Technology department. However, Colorado has the highest average profit when it comes to furniture sales.
 
 
 # MongoDB 1
