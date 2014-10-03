@@ -82,7 +82,7 @@ Texas significantly outperformed California in the Consumer market segment. Cali
 
 ![image](C6TChallenge6.png?raw=true)
 
-My boss is correct. The above visulaization shows the seven most expensive states to ship to toward the right, and the cheapest seven states to ship to toward the left. It costs about double to ship to the seven most expensive states than the two least expensive states, and even in the middle there is roughly a five dollar difference between the seventh least expensive state and the seventh most expensive state (New Mexico and West Virgina, respectively). This is well-illustrated by the stark color contrast between the two states. I find it humorous that it costs almost double to ship to South Dakota as compared to North Dakota.  
+My boss is correct. The above visulaization shows the seven most expensive states to ship to toward the left, and the cheapest seven states to ship to toward the right. It costs about double to ship to the seven most expensive states than the two least expensive states, and even in the middle there is roughly a five dollar difference between the seventh least expensive state and the seventh most expensive state (New Mexico and West Virgina, respectively). This is well-illustrated by the stark color contrast between the two states. I find it humorous that it costs almost double to ship to South Dakota as compared to North Dakota.  
 
 ### 7 (5 points)
 
