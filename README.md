@@ -99,7 +99,7 @@ Dawson Botsford
 
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/VFfTajO.png)
 
 ### 3 (5 points)
 
