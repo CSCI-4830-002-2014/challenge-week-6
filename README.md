@@ -38,63 +38,67 @@ No SQL uses a nonrelational system to store data, and thus doesn't deal with the
 
 ### 1 (3 points)
 
-![image](image.png?raw=true)
+![image](HW6_CP1.PNG?raw=true)
 
 ### 2 (3 points)
 
-![image](image.png?raw=true)
+![image](HW6_CP2.PNG?raw=true)
 
 ### 3 (3 points)
 
-![image](image.png?raw=true)
+![image](HW6_CP3.PNG?raw=true)
 
 ### 4 (3 points)
 
-![image](image.png?raw=true)
+![image](HW6_CP4.PNG?raw=true)
 
 ## Challenges
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](HW6_CH1.PNG?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+Detroit and Miami both have fairly large sales and not a huge amount of profit.
 
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+![image](HW6_CH2.PNG?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+Corporate Technology provided the highest profit.
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](HW6_CH3.PNG?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+France and Korea both had issues turning profit in Office Supplies.
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](HW6_CH4.PNG?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+Galesburg, Illinois is suffering in the Home Office Furniture segment. Hattiesburg, Mississippi is suffering in the Home Office, Office Supplies Department. Gastonia, North Carolina is suffering in the Corporate Technology sector.
 
 ### 5 (5 points)
 
-![image](image.png?raw=true)
+![image](HW6_CH5.PNG?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+ Texas significantly outperformed California in profits within the consumer category.
 
 ### 6 (5 points)
 
-![image](image.png?raw=true)
+![image](HW6_CH6.PNG?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+Montana pays significantly more than other states.
 
 ### 7 (5 points)
 
-![image](image.png?raw=true)
+![image](HW6_CH7a.PNG?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+Colorado has sales of $132.2k. The closest four are Arizona at $120.4k, Maryland at $124.9k, Alabama at 126.7k, and New Jersey at 143.4k.
+
+![image](HW6_CH7b.PNG?raw=true)
+
+Colorado is the smallest of the five in annual sales growth within consumer furniture, within small business technology, it is the largest, and within consumer office supplies, it is also the largest. Unsurprisingly, these correlate with the number of items in each of these sectors.
 
 
 # MongoDB 1
