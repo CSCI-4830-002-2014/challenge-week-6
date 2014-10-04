@@ -1,8 +1,9 @@
-var data = require('./result7.json');
+var data = require('./gitResults.json');
 
 var MongoClient = require('mongodb').MongoClient;
 
 //This is commented out for now because I am being rate limited by github. To run proeprly, uncomment and change hte source for data varaible
+
 // var GitHubApi = require("github");
 // var async = require("async");
 
@@ -38,7 +39,6 @@ MongoClient.connect('mongodb://127.0.0.1:27017/test', function(err, db) {
     if(err) throw err;
  
     console.log(">> Dropping collection");
-    console.log(data)
 
     db.dropCollection('test_insert_github', function(err, result) {
       console.log("dropped: ");
