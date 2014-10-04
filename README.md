@@ -32,61 +32,61 @@ The 1st limitation is that relational databases require that you define your sch
 
 ### 1 (3 points)
 
-![image](image.png?raw=true)
+![image](cp1.png?raw=true)
 
 ### 2 (3 points)
 
-![image](image.png?raw=true)
+![image](cp2.png?raw=true)
 
 ### 3 (3 points)
 
-![image](image.png?raw=true)
+![image](cp3.png?raw=true)
 
 ### 4 (3 points)
 
-![image](image.png?raw=true)
+![image](cp4.png?raw=true)
 
 ## Challenges
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](challenge1.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+{{From looking at the map both Los Angeles and Seattle generated a lot of sales but relativley little profit.}}
 
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+![image](challenge2.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+{{By looking at the visualization you can see that the corporate technology part of the sales was by far the largest of them all.}}
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](challenge3.png?raw=true)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](challenge4.png?raw=true)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 5 (5 points)
 
-![image](image.png?raw=true)
+![image](challenge5.png?raw=true)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 6 (5 points)
 
-![image](image.png?raw=true)
+![image](challenge6.png?raw=true)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 7 (5 points)
 
-![image](image.png?raw=true)
+![image](challenge7.png?raw=true)
 
 {{one-paragraph-discussion-of-your-answer}}
 
