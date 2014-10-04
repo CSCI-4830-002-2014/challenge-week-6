@@ -1,0 +1,93 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'install', 'mongoos' ]
+2 info using npm@2.0.0
+3 info using node@v0.10.29
+4 verbose cache add [ 'mongoos', null ]
+5 verbose cache add spec="mongoos" args=["mongoos",null]
+6 verbose parsed spec { raw: 'mongoos',
+6 verbose parsed spec   scope: null,
+6 verbose parsed spec   name: 'mongoos',
+6 verbose parsed spec   rawSpec: '',
+6 verbose parsed spec   spec: '*',
+6 verbose parsed spec   type: 'range' }
+7 verbose parsed spec { raw: 'mongoos',
+7 verbose parsed spec   scope: null,
+7 verbose parsed spec   name: 'mongoos',
+7 verbose parsed spec   rawSpec: '',
+7 verbose parsed spec   spec: '*',
+7 verbose parsed spec   type: 'range' }
+8 verbose addNamed [ 'mongoos', '*' ]
+9 verbose addNamed [ null, '*' ]
+10 silly lockFile 8c1e7d54-mongoos mongoos@*
+11 verbose lock mongoos@* /Users/jakecharland/.npm/8c1e7d54-mongoos.lock
+12 silly addNameRange { name: 'mongoos', range: '*', hasData: false }
+13 verbose mapToRegistry name mongoos
+14 verbose mapToRegistry uri https://registry.npmjs.org/mongoos
+15 verbose request on initialization, where is /mongoos
+16 verbose request after pass 1, where is /mongoos
+17 verbose request url raw /mongoos
+18 verbose request resolving registry [ 'https://registry.npmjs.org/', './mongoos' ]
+19 verbose request after pass 2, where is https://registry.npmjs.org/mongoos
+20 verbose request no auth needed
+21 info attempt registry request try #1 at 07:44:17
+22 verbose request id a9be85a34a406804
+23 http request GET https://registry.npmjs.org/mongoos
+24 http 404 https://registry.npmjs.org/mongoos
+25 verbose headers { date: 'Wed, 01 Oct 2014 13:44:19 GMT',
+25 verbose headers   server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+25 verbose headers   'content-type': 'application/json',
+25 verbose headers   'cache-control': 'max-age=0',
+25 verbose headers   'content-length': '52',
+25 verbose headers   'accept-ranges': 'bytes',
+25 verbose headers   via: '1.1 varnish',
+25 verbose headers   age: '0',
+25 verbose headers   'x-served-by': 'cache-sjc3120-SJC',
+25 verbose headers   'x-cache': 'MISS',
+25 verbose headers   'x-cache-hits': '0',
+25 verbose headers   'x-timer': 'S1412171058.788014,VS0,VE356',
+25 verbose headers   'keep-alive': 'timeout=10, max=50',
+25 verbose headers   connection: 'Keep-Alive' }
+26 silly registry.get cb [ 404,
+26 silly registry.get   { date: 'Wed, 01 Oct 2014 13:44:19 GMT',
+26 silly registry.get     server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+26 silly registry.get     'content-type': 'application/json',
+26 silly registry.get     'cache-control': 'max-age=0',
+26 silly registry.get     'content-length': '52',
+26 silly registry.get     'accept-ranges': 'bytes',
+26 silly registry.get     via: '1.1 varnish',
+26 silly registry.get     age: '0',
+26 silly registry.get     'x-served-by': 'cache-sjc3120-SJC',
+26 silly registry.get     'x-cache': 'MISS',
+26 silly registry.get     'x-cache-hits': '0',
+26 silly registry.get     'x-timer': 'S1412171058.788014,VS0,VE356',
+26 silly registry.get     'keep-alive': 'timeout=10, max=50',
+26 silly registry.get     connection: 'Keep-Alive' } ]
+27 silly lockFile 8c1e7d54-mongoos mongoos@*
+28 silly lockFile 8c1e7d54-mongoos mongoos@*
+29 verbose stack Error: 404 Not Found: mongoos
+29 verbose stack     at RegClient.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:259:14)
+29 verbose stack     at Request._callback (/usr/local/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:198:65)
+29 verbose stack     at Request.self.callback (/usr/local/lib/node_modules/npm/node_modules/request/request.js:236:22)
+29 verbose stack     at Request.emit (events.js:98:17)
+29 verbose stack     at Request.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/request/request.js:1142:14)
+29 verbose stack     at Request.emit (events.js:117:20)
+29 verbose stack     at IncomingMessage.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/request/request.js:1096:12)
+29 verbose stack     at IncomingMessage.emit (events.js:117:20)
+29 verbose stack     at _stream_readable.js:929:16
+29 verbose stack     at process._tickCallback (node.js:419:13)
+30 verbose statusCode 404
+31 verbose pkgid mongoos
+32 verbose cwd /Users/jakecharland/Documents/BigData/challenge-week-6
+33 error Darwin 13.3.0
+34 error argv "node" "/usr/local/bin/npm" "install" "mongoos"
+35 error node v0.10.29
+36 error npm  v2.0.0
+37 error code E404
+38 error 404 Not Found: mongoos
+38 error 404
+38 error 404 'mongoos' is not in the npm registry.
+38 error 404 You should bug the author to publish it (or use the name yourself!)
+38 error 404
+38 error 404 Note that you can also install from a
+38 error 404 tarball, folder, http url, or git url.
+39 verbose exit [ 1, true ]
