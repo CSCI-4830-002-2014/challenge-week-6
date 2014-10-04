@@ -101,43 +101,43 @@ As you can see from the visualization California in particular is losing a lot o
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](mongocp1.png?raw=true)
 
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+![image](mongocp2.png?raw=true)
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](mongocp3.png?raw=true)
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](mongocp4.png?raw=true)
 
 ## Challenges
 
 
 ### 1 (6 points)
 
-![image](image.png?raw=true)
+![image](mongochallenge1.png?raw=true)
 
 [mongodb1.js](mongodb1.js)
 
 ### 2 (6 points)
 
-![image](image.png?raw=true)
+![image](mongochallenge2.png?raw=true)
 
 [mongodb2.js](mongodb2.js)
 
 ### 3 (6 points)
 
-![image](image.png?raw=true)
+![image](mongochallenge3.png?raw=true)
 
 [mongodb3.js](mongodb3.js)
 
 ### 4 (6 points)
 
-![image](image.png?raw=true)
+![image](mongochallenge4.png?raw=true)
 
 [mongodb4.js](mongodb4.js)
