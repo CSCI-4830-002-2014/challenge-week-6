@@ -52,37 +52,43 @@ Stuff
 
 ![image](images\tabCH1.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+City	Country / Region	State	Latitude (generated)	Longitude (generated)	Profit	Sales
+Bozeman	United States of America	Montana	45.679	-111.038	($12,362.12)	$15.7K
+Miami	United States of America	Florida	25.774	-80.193	($239.77)	$190.2K
+
+While Bozeman did not generate many sales, most of the sales they did make went to waste and they lost 4/5 of their sales revenue.
+On the other hand, Miami made great sales figures, yet they still reported a loss, though it was minor at $240.
 
 ### 2 (5 points)
 
 ![image](images\tabCH2.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+The Technology department with Corporate customers produced the highest profit. This was followed by the Small Business customers of the techo department. 
 
 ### 3 (5 points)
 
 ![image](images\tabCH3.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+France had similar sales numbers at $279K but had many struggles selling Office Supplies. Similarily, Mexico had $352K in sales, but their technology sales were virtually inexistent. 
 
 ### 4 (5 points)
 
 ![image](images\tabCH4.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+Redding California was losing a lot of money in the Consumer segment when shipping via Delivery Truck.
+Bozeman makes the cut again by losing a mass of money shipping Home Office products over Regular Air.
 
 ### 5 (5 points)
 
 ![image](images\tabCH5.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+Texas outperformed California significantly in the Consumer segment, but California putperformed Texas in the Corporate segment.
 
 ### 6 (5 points)
 
 ![image](images\tabCH6.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+California was one of the most expensive states to ship in, with Texas and Washington following closely behind.
 
 ### 7 (5 points)
 
