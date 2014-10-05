@@ -4,7 +4,7 @@ Chris Wittenberg
 
 # How many points have you earned?
 
-85/100
+94/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 

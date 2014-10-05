@@ -19,7 +19,7 @@ MongoClient.connect('mongodb://127.0.0.1:27017/test', function(err, db) {
        // Locate all the entries using find
       collection.find().toArray(function(err, results) {
         results.forEach(function(x){
-          console.log("name:" + x.type + ", owner.login:" + x.actor.login);
+          console.log("name:" + x.type + ", owner.login:" + x.id);
         });
         // Let's close the db
         db.close();
