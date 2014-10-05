@@ -54,9 +54,9 @@ Dawson Botsford
 
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/wb2mfko.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+{The most profitable combination is corporate technology. }
 
 ### 3 (5 points)
 
