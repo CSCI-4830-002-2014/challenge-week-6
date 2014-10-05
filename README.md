@@ -82,6 +82,7 @@ Boss, we are paying too much! Check out the color gradient on Wyoming, South Dak
 Filtered by order quantity:
 ![image](http://i.imgur.com/UzC3h2d.png)<br>
 We began this visualization by filtering by sum(sales). Colorado has a sum of $132k, so the filter for sales is 121k - 150k. 
+<br>
 1. Colorado has a total sale of $132.2k
 2. Alabama, Wisconsin, Maryland, and New Jersey
 3. Order quantity differs. Wisconsin wiped the floor
