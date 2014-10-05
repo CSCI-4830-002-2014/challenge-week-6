@@ -1,12 +1,10 @@
 # Name
 
-write-your-name
+Niklas Fejes
 
 # How many points have you earned?
 
-0/100
-
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
+44/100
 
 # How many hours have you spent on this?
 
@@ -32,61 +30,61 @@ fill-in-your-answer
 
 ### 1 (3 points)
 
-![image](image.png?raw=true)
+![image](screenshots/tableau-checkpoint1.png?raw=true)
 
 ### 2 (3 points)
 
-![image](image.png?raw=true)
+![image](screenshots/tableau-checkpoint2.png?raw=true)
 
 ### 3 (3 points)
 
-![image](image.png?raw=true)
+![image](screenshots/tableau-checkpoint3.png?raw=true)
 
 ### 4 (3 points)
 
-![image](image.png?raw=true)
+![image](screenshots/tableau-checkpoint4.png?raw=true)
 
 ## Challenges
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](screenshots/tableau-challenge1.png?raw=true)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+![image](screenshots/tableau-challenge2.png?raw=true)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](screenshots/tableau-challenge3.png?raw=true)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](screenshots/tableau-challenge4.png?raw=true)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 5 (5 points)
 
-![image](image.png?raw=true)
+![image](screenshots/tableau-challenge5.png?raw=true)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 6 (5 points)
 
-![image](image.png?raw=true)
+![image](screenshots/tableau-challenge6.png?raw=true)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 7 (5 points)
 
-![image](image.png?raw=true)
+![image](screenshots/tableau-challenge7.png?raw=true)
 
 {{one-paragraph-discussion-of-your-answer}}
 
@@ -97,43 +95,43 @@ fill-in-your-answer
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](screenshots/mongo-checkpoint0.png?raw=true)
 
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+![image](screenshots/mongo-checkpoint1.png?raw=true)
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](screenshots/mongo-checkpoint2.png?raw=true)
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](screenshots/mongo-checkpoint3.png?raw=true)
 
 ## Challenges
 
 
 ### 1 (6 points)
 
-![image](image.png?raw=true)
+![image](screenshots/mongo-challenge1.png?raw=true)
 
 [mongodb1.js](mongodb1.js)
 
 ### 2 (6 points)
 
-![image](image.png?raw=true)
+![image](screenshots/mongo-challenge2a.png?raw=true)
 
 [mongodb2.js](mongodb2.js)
 
 ### 3 (6 points)
 
-![image](image.png?raw=true)
+![image](screenshots/mongo-challenge2b.png?raw=true)
 
 [mongodb3.js](mongodb3.js)
 
 ### 4 (6 points)
 
-![image](image.png?raw=true)
+![image](screenshots/mongo-challenge3.png?raw=true)
 
 [mongodb4.js](mongodb4.js)
