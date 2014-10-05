@@ -107,15 +107,15 @@ Colorado is the smallest of the five in annual sales growth within consumer furn
 
 ### 1 (5 points)
 
-![image](HW6_CH5.PNG?raw=true)
+![image](HW6_CP5.PNG?raw=true)
 
 ### 2 (5 points)
 
-![image](HW6_CH6.PNG?raw=true)
+![image](HW6_CP6.PNG?raw=true)
 
 ### 3 (5 points)
 
-![image](HW6_CH7.png?raw=true)
+![image](HW6_CP7.png?raw=true)
 
 ### 4 (5 points)
 
