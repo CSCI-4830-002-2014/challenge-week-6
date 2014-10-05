@@ -95,19 +95,19 @@ fill-in-your-answer
 
 ### 1 (5 points)
 
-![image](screenshots/mongo-checkpoint0.png?raw=true)
+![image](screenshots/mongo-checkpoint1.png?raw=true)
 
 ### 2 (5 points)
 
-![image](screenshots/mongo-checkpoint1.png?raw=true)
+![image](screenshots/mongo-checkpoint2.png?raw=true)
 
 ### 3 (5 points)
 
-![image](screenshots/mongo-checkpoint2.png?raw=true)
+![image](screenshots/mongo-checkpoint3.png?raw=true)
 
 ### 4 (5 points)
 
-![image](screenshots/mongo-checkpoint3.png?raw=true)
+![image](screenshots/mongo-checkpoint4.png?raw=true)
 
 ## Challenges
 
