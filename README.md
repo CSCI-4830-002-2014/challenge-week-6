@@ -32,61 +32,61 @@ Stuff
 
 ### 1 (3 points)
 
-![image](image.png?raw=true)
+![image](images\tabCP1.png?raw=true)
 
 ### 2 (3 points)
 
-![image](image.png?raw=true)
+![image](images\tabCP2.png?raw=true)
 
 ### 3 (3 points)
 
-![image](image.png?raw=true)
+![image](images\tabCP3.png?raw=true)
 
 ### 4 (3 points)
 
-![image](image.png?raw=true)
+![image](images\tabCP4.png?raw=true)
 
 ## Challenges
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](images\tabCH1.png?raw=true)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+![image](images\tabCH2.png?raw=true)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](images\tabCH3.png?raw=true)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](images\tabCH4.png?raw=true)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 5 (5 points)
 
-![image](image.png?raw=true)
+![image](images\tabCH5.png?raw=true)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 6 (5 points)
 
-![image](image.png?raw=true)
+![image](images\tabCH6.png?raw=true)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 7 (5 points)
 
-![image](image.png?raw=true)
+![image](images\tabCH7.png?raw=true)
 
 {{one-paragraph-discussion-of-your-answer}}
 
@@ -97,43 +97,43 @@ Stuff
 
 ### 1 (5 points)
 
-![image](mongoCP1.png?raw=true)
+![image](images/mongoCP1.png?raw=true)
 
 ### 2 (5 points)
 
-![image](mongoCP2.png?raw=true)
+![image](images/mongoCP2.png?raw=true)
 
 ### 3 (5 points)
 
-![image](mongoCP3.png?raw=true)
+![image](images/mongoCP3.png?raw=true)
 
 ### 4 (5 points)
 
-![image](mongoCP4.png?raw=true)
+![image](images/mongoCP4.png?raw=true)
 
 ## Challenges
 
 
 ### 1 (6 points)
 
-![image](image.png?raw=true)
+![image](images/mongoCH1.png?raw=true)
 
 [mongodb1.js](mongodb1.js)
 
 ### 2 (6 points)
 
-![image](image.png?raw=true)
+![image](images/mongoCH2.png?raw=true)
 
 [mongodb2.js](mongodb2.js)
 
 ### 3 (6 points)
 
-![image](image.png?raw=true)
+![image](images/mongoCH3.png?raw=true)
 
 [mongodb3.js](mongodb3.js)
 
 ### 4 (6 points)
 
-![image](image.png?raw=true)
+![image](images/mongoCH4.png?raw=true)
 
 [mongodb4.js](mongodb4.js)
