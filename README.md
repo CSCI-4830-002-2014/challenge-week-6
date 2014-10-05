@@ -4,17 +4,17 @@ Chris Wittenberg
 
 # How many points have you earned?
 
-94/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+6 hours.
 
 # What is the most difficult part about this week's challenge?
 
-Getting MongoDB to work on my laptop.
+Getting MongoDB to work on my laptop and figuring out Challenge 4 for the MongoDB.
 
 # Show and tell (9 points)
 
