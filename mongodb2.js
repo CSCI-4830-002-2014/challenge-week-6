@@ -13,13 +13,13 @@ MongoClient.connect('mongodb://127.0.0.1:27017/test', function(err, db) {
   rest.get('https://api.github.com/orgs/CSCI-4830-002-2014/events').on('complete', function(data) {
  
     // Create a collection to store the results from github
-    var collection = db.collection('challenge_2');
+    var collection = db.collection('test_insert_github');
     collection.insert(data, function(err, docs) {
  
        // Locate all the entries using find
       collection.find().toArray(function(err, results) {
         results.forEach(function(x){
-          console.log("name:" + x.actor.login + ", event type:" + x.type + ", repo " + x.repo.name);
+          console.log("Event type: " + x.type + ", Id: " + x.id);
         });
         // Let's close the db
         db.close();
