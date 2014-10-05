@@ -50,31 +50,28 @@ Dawson Botsford
 
 ![image](http://i.imgur.com/U0z3fiS.png)
 
-{{In our map, we have the color gradient as profit. So to find a not-very-profitable city, we are looking for a gray circle. And in order for this grey-circled city to also have big sales figures, we want a large circle. This leaves us with many options, but Miami and Atlanta are what I chose.}}
+In our map, we have the color gradient as profit. So to find a not-very-profitable city, we are looking for a gray circle. And in order for this grey-circled city to also have big sales figures, we want a large circle. This leaves us with many options, but Miami and Atlanta are what I chose.
 
 ### 2 (5 points)
 
 ![image](http://i.imgur.com/wb2mfko.png)
 
-{The most profitable combination is corporate technology. }
+The most profitable combination is corporate technology. 
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
-
-{{one-paragraph-discussion-of-your-answer}}
+![image](http://i.imgur.com/0kSKQkU.png)
+We are looking for pie charts where one of the three colors is barely represented. On this map we see that Argentina has a very small amount of profit in the furniture department. Yet again similar to egypt is Poland, which has difficulty turning a profit in office supplies.
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
-
-{{one-paragraph-discussion-of-your-answer}}
+![image](http://i.imgur.com/lmIpUol.png)
+Durango, Colorado and Galesburg, Illinois had a low profit in comparison to the rest of the US for home office - delivery truck combo. Boise, Idaho had a low profit also for the combo of consumer - regular air.
 
 ### 5 (5 points)
 
-![image](image.png?raw=true)
-
-{{one-paragraph-discussion-of-your-answer}}
+![image](http://i.imgur.com/sT4P8Kh.png)
+In the consumer segment Taxes outperformed Cali IF ALL YOU LOOK AT IS COLOR. You can see this with the red vs. green. Here is something peculiar though, Cali actually had a higher profit. Texas was at approx $16,200 while $18,100. So Cali was actually higher! But cali's profit string is surrounded with the "()" characters. So maybe it is a string parsing error. In which case the answer is home office with Texas truming in at $13,000 higher.
 
 ### 6 (5 points)
 
