@@ -30,27 +30,27 @@ Dawson Botsford
 
 ### 1 (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/RdRBjpg.png)
 
 ### 2 (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/f4svcXm.png)
 
 ### 3 (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/raMVpms.png)
 
 ### 4 (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/ZyqdUpq.png)
 
 ## Challenges
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/U0z3fiS.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+{{In our map, we have the color gradient as profit. So to find a not-very-profitable city, we are looking for a gray circle. And in order for this grey-circled city to also have big sales figures, we want a large circle. This leaves us with many options, but Miami and Atlanta are what I chose.}}
 
 ### 2 (5 points)
 
