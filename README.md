@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Brian Newsom
 
 # How many points have you earned?
 
@@ -32,63 +32,62 @@ fill-in-your-answer
 
 ### 1 (3 points)
 
-![image](image.png?raw=true)
+![image](tableaucp1.png?raw=true)
 
 ### 2 (3 points)
 
-![image](image.png?raw=true)
+![image](tableaucp2.png?raw=true)
 
 ### 3 (3 points)
 
-![image](image.png?raw=true)
+![image](tableaucp3.png?raw=true)
 
 ### 4 (3 points)
 
-![image](image.png?raw=true)
+![image](tableaucp4.png?raw=true)
 
 ## Challenges
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](tableauch1.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
-
+To find cities generating large amounts of sales but small profits, we are looking for large dots (large sales) but red or light green/white color (small profits).  Cities I found that meet this criteria are Dallas, TX, and San Diego CA, among many others.  These are not the larggest, but their low profits are some of the most drastic in comparison to their size.
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+![image](tableauch2.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+The corporate technology combination generated the highest total profit.  We do not know from this visualization how much of this data is within that sector versus the others.
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](tableauch3.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+France behaved similarly to Egypt in terms of sales, and just like Egypt, did not make a lot of sales in the office supplies sector..  Similarly, Korea has sales close to that of Egypt, but sold minimal office supplies. That seems to be a common trend through this data.
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](tableauch4.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+Durango has been losing a significant amount of money with respect to home office products delivered by delivery truck.  One could speculate this relates to the mountainous driving surrounding the area. Similarly, Bozeman Montana had lost a lot of profit in the home office segment shipped by regular air.  I would imagine this pertains to the intense weather there.  There are many others like this denoted by red dots.
 
 ### 5 (5 points)
 
-![image](image.png?raw=true)
+![image](tableauch5.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+Texas most significantly outperformed California in terms of total profits in the Consumer segment, where CA lost a large amount of money.  In the other segments, they seem to be more comparable.
 
 ### 6 (5 points)
 
-![image](image.png?raw=true)
+![image](tableauch6.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+Based on the above visualization, it seems that Montana is a very expensive ship to deliver to by truck.  Based on the fact that the average costs for express air and regular air are similar to other states cost, it seems the company is paying too much.  However, this seems to be the only state that doesn't follow right in the trend and it is unlikely that some states are WAY more expensive to ship to by truck than the others.
 
 ### 7 (5 points)
 
-![image](image.png?raw=true)
+![image](tableauch7.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+Based on this data, the total sales of Colorado is $132,210.  Similar states to this figure are Oregon, Arizona, Kansas, and Alabama.  These states have very different profits, with Oregon being almost 5x that of Alabama.  The states vary among most profitable customer segments, with Oregon having small businesses prevail and Kansas having corporate with the largest profits.  Colorado jumps out as the whitest in my figure, as it has the least prevalent discounts according to this data.  That's a bummer.
 
 
 # MongoDB 1
