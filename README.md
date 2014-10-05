@@ -83,11 +83,11 @@ Filtered by order quantity:
 ![image](http://i.imgur.com/UzC3h2d.png)<br>
 We began this visualization by filtering by sum(sales). Colorado has a sum of $132k, so the filter for sales is 121k - 150k. 
 <br>
-1. Colorado has a total sale of $132.2k
-2. Alabama, Wisconsin, Maryland, and New Jersey
-3. Order quantity differs. Wisconsin wiped the floor
-4. Dimensions are always unique like region. Clearly a different region of the US will have a different "region" field
-5. We stand out as the worst in sum(profit). Especially considering our 2014 per capita income. We are one of the highest in per capita income and one of the lowest in sum(profit).
+* Colorado has a total sale of $132.2k
+* Alabama, Wisconsin, Maryland, and New Jersey
+* Order quantity differs. Wisconsin wiped the floor
+* Dimensions are always unique like region. Clearly a different region of the US will have a different "region" field
+* We stand out as the worst in sum(profit). Especially considering our 2014 per capita income. We are one of the highest in per capita income and one of the lowest in sum(profit).
 <br>Profit graph with per capit included:
 ![image](http://i.imgur.com/DgHrSZG.png)
 
