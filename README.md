@@ -10,11 +10,11 @@ Adrian Chen
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+4
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Figuring out the mongodb installation - it didn't work the first time on either of my machines.
 
 # Show and tell (9 points)
 
@@ -107,43 +107,43 @@ Colorado is the smallest of the five in annual sales growth within consumer furn
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](HW6_CH5.PNG?raw=true)
 
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+![image](HW6_CH6.PNG?raw=true)
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](HW6_CH7.png?raw=true)
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](HW6_CP8.png?raw=true)
 
 ## Challenges
 
 
 ### 1 (6 points)
 
-![image](image.png?raw=true)
+![image](HW6_CH8.png?raw=true)
 
 [mongodb1.js](mongodb1.js)
 
 ### 2 (6 points)
 
-![image](image.png?raw=true)
+![image](HW6_CH9.png?raw=true)
 
 [mongodb2.js](mongodb2.js)
 
 ### 3 (6 points)
 
-![image](image.png?raw=true)
+![image](HW6_CH9.png?raw=true)
 
 [mongodb3.js](mongodb3.js)
 
 ### 4 (6 points)
 
-![image](image.png?raw=true)
+![image](HW6_CH10.png?raw=true)
 
 [mongodb4.js](mongodb4.js)
