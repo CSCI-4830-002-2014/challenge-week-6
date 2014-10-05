@@ -75,15 +75,20 @@ In the consumer segment Taxes outperformed Cali IF ALL YOU LOOK AT IS COLOR. You
 
 ### 6 (5 points)
 
-![image](image.png?raw=true)
-
-{{one-paragraph-discussion-of-your-answer}}
+![image](http://i.imgur.com/gcmhj7L.png/)
+Boss, we are paying too much! Check out the color gradient on Wyoming, South Dakota, etc.. It costs more to ship to these locations. We found this out by getting the average shipping cost as a color gradient. This is likely because roads are more sparse.
 
 ### 7 (5 points)
-
-![image](image.png?raw=true)
-
-{{one-paragraph-discussion-of-your-answer}}
+Filtered by order quantity:
+![image](http://i.imgur.com/UzC3h2d.png)<br>
+We began this visualization by filtering by sum(sales). Colorado has a sum of $132k, so the filter for sales is 121k - 150k. 
+1. Colorado has a total sale of $132.2k
+2. Alabama, Wisconsin, Maryland, and New Jersey
+3. Order quantity differs. Wisconsin wiped the floor
+4. Dimensions are always unique like region. Clearly a different region of the US will have a different "region" field
+5. We stand out as the worst in sum(profit). Especially considering our 2014 per capita income. We are one of the highest in per capita income and one of the lowest in sum(profit).
+<br>Profit graph with per capit included:
+![image](http://i.imgur.com/DgHrSZG.png)
 
 
 # MongoDB 1
