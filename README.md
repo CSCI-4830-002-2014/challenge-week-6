@@ -96,43 +96,43 @@ Based on this data, the total sales of Colorado is $132,210.  Similar states to 
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](mongo1.png?raw=true)
 
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+![image](mongo2.png?raw=true)
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](mongo3.png?raw=true)
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](mongo4.png?raw=true)
 
 ## Challenges
 
 
 ### 1 (6 points)
 
-![image](image.png?raw=true)
+![image](mongoch1.png?raw=true)
 
 [mongodb1.js](mongodb1.js)
 
 ### 2 (6 points)
 
-![image](image.png?raw=true)
+![image](mongoch2.png?raw=true)
 
 [mongodb2.js](mongodb2.js)
 
 ### 3 (6 points)
 
-![image](image.png?raw=true)
+![image](mongoch3.png?raw=true)
 
 [mongodb3.js](mongodb3.js)
 
 ### 4 (6 points)
 
-![image](image.png?raw=true)
+![image](mongoch4.png?raw=true)
 
 [mongodb4.js](mongodb4.js)
