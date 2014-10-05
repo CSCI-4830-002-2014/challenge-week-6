@@ -32,25 +32,25 @@ Stuff
 
 ### 1 (3 points)
 
-![image](images\tabCP1.png?raw=true)
+![image](images/tabCP1.png?raw=true)
 
 ### 2 (3 points)
 
-![image](images\tabCP2.png?raw=true)
+![image](images/tabCP2.png?raw=true)
 
 ### 3 (3 points)
 
-![image](images\tabCP3.png?raw=true)
+![image](images/tabCP3.png?raw=true)
 
 ### 4 (3 points)
 
-![image](images\tabCP4.png?raw=true)
+![image](images/tabCP4.png?raw=true)
 
 ## Challenges
 
 ### 1 (5 points)
 
-![image](images\tabCH1.png?raw=true)
+![image](images/tabCH1.png?raw=true)
 
 City	Country / Region	State	Latitude (generated)	Longitude (generated)	Profit	Sales
 Bozeman	United States of America	Montana	45.679	-111.038	($12,362.12)	$15.7K
@@ -61,38 +61,38 @@ On the other hand, Miami made great sales figures, yet they still reported a los
 
 ### 2 (5 points)
 
-![image](images\tabCH2.png?raw=true)
+![image](images/tabCH2.png?raw=true)
 
 The Technology department with Corporate customers produced the highest profit. This was followed by the Small Business customers of the techo department. 
 
 ### 3 (5 points)
 
-![image](images\tabCH3.png?raw=true)
+![image](images/tabCH3.png?raw=true)
 
 France had similar sales numbers at $279K but had many struggles selling Office Supplies. Similarily, Mexico had $352K in sales, but their technology sales were virtually inexistent. 
 
 ### 4 (5 points)
 
-![image](images\tabCH4.png?raw=true)
+![image](images/tabCH4.png?raw=true)
 
 Redding California was losing a lot of money in the Consumer segment when shipping via Delivery Truck.
 Bozeman makes the cut again by losing a mass of money shipping Home Office products over Regular Air.
 
 ### 5 (5 points)
 
-![image](images\tabCH5.png?raw=true)
+![image](images/tabCH5.png?raw=true)
 
 Texas outperformed California significantly in the Consumer segment, but California putperformed Texas in the Corporate segment.
 
 ### 6 (5 points)
 
-![image](images\tabCH6.png?raw=true)
+![image](images/tabCH6.png?raw=true)
 
 California was one of the most expensive states to ship in, with Texas and Washington following closely behind.
 
 ### 7 (5 points)
 
-![image](images\tabCH7.png?raw=true)
+![image](images/tabCH7.png?raw=true)
 
 {{one-paragraph-discussion-of-your-answer}}
 
