@@ -4,17 +4,17 @@ Daniel Nolan
 
 # How many points have you earned?
 
-66/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-3 hours
+~7 hours
 
 # What is the most difficult part about this week's challenge?
 
-Getting the MongoDB driver to work with Node JS files
+Getting the MongoDB driver to work with Node JS file on the very lst challenge. I had problems getting my github variable to work. It did not output what I wanted it to. 
 
 # Show and tell (9 points)
 
@@ -110,35 +110,35 @@ The NOSQL databases are horizontally scalable, where you can incorporate 16 comp
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/FUDhQrO.png)
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/1TpFsGm.png)
 
 ## Challenges
 
 
 ### 1 (6 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/6BSFxvj.png)
 
 [mongodb1.js](mongodb1.js)
 
 ### 2 (6 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/oNbXOtl.png)
 
 [mongodb2.js](mongodb2.js)
 
 ### 3 (6 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/sSyN30Z.png)
 
 [mongodb3.js](mongodb3.js)
 
 ### 4 (6 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/3igkM8y.png)
 
 [mongodb4.js](mongodb4.js)
