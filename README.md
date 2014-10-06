@@ -1,30 +1,29 @@
 # Name
 
-write-your-name
+Irfan Nadiadi
 
 # How many points have you earned?
 
-0/100
+60/100
 
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+4
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+I had a tough time getting MongoDB setup in OS X, and eventually gave up and ran it in a VM. I apologize in advance for the incomplete-ness of this challenge, this past week has been very busy for me.
 
 # Show and tell (9 points)
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-article-comparing-nosql-and-sql)
+[Comparing SPARQL with SQL](http://www.topquadrant.com/2014/05/05/comparing-sparql-with-sql/)
 
 ## What are the limitations of SQL? How are NoSQL solutions trying to address them (name three)? (7 points)
 
-fill-in-your-answer
+SQL data is very structured by nature. NoSQL solves this by storing a variety of data, including unstructured data, allowing for much more flexibility in the information stored. SQL databases also require pre-defined schemas, which NoSQL does not. Another big advantage of NoSQL is the ability to manipulate data using object-oriented API's rather than the traditional structured query language.
 
 # Tableau (II) (3 points x 4 + 5 points x 7 = 47 points)
 
@@ -32,61 +31,61 @@ fill-in-your-answer
 
 ### 1 (3 points)
 
-![image](image.png?raw=true)
+![image](Checkpoints/t1.png)
 
 ### 2 (3 points)
 
-![image](image.png?raw=true)
+![image](Checkpoints/t2.png)
 
 ### 3 (3 points)
 
-![image](image.png?raw=true)
+![image](Checkpoints/t3.png)
 
 ### 4 (3 points)
 
-![image](image.png?raw=true)
+![image](Checkpoints/t4.png)
 
 ## Challenges
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](Challenges/t1.png)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+![image](Challenges/t2.png)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](Challenges/t3.png)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](Challenges/t4.png)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 5 (5 points)
 
-![image](image.png?raw=true)
+![image](Challenges/t5.png)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 6 (5 points)
 
-![image](image.png?raw=true)
+![image](Challenges/t6.png)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 7 (5 points)
 
-![image](image.png?raw=true)
+![image](Challenges/t1.png)
 
 {{one-paragraph-discussion-of-your-answer}}
 
@@ -97,43 +96,43 @@ fill-in-your-answer
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](Checkpoints/m1.png)
 
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+![image](Checkpoints/m2.png)
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](Checkpoints/m3.png)
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](Checkpoints/m4.png)
 
 ## Challenges
 
 
 ### 1 (6 points)
 
-![image](image.png?raw=true)
+![image](Challenges/m1.png)
 
 [mongodb1.js](mongodb1.js)
 
 ### 2 (6 points)
 
-![image](image.png?raw=true)
+![image](Challenges/m2.png)
 
 [mongodb2.js](mongodb2.js)
 
 ### 3 (6 points)
 
-![image](image.png?raw=true)
+![image](Challenges/m3.png)
 
 [mongodb3.js](mongodb3.js)
 
 ### 4 (6 points)
 
-![image](image.png?raw=true)
+![image](Challenges/m4.png)
 
 [mongodb4.js](mongodb4.js)
