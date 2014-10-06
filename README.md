@@ -1,30 +1,30 @@
 # Name
 
-write-your-name
+Nikita Voskoboynik
 
 # How many points have you earned?
 
-0/100
+60/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+5 hours
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+getting mongodb to work on my mac.
 
 # Show and tell (9 points)
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-article-comparing-nosql-and-sql)
+[Understanding SQL And NoSQL Databases And Different Database Models](https://www.digitalocean.com/community/tutorials/understanding-sql-and-nosql-databases-and-different-database-models)
 
 ## What are the limitations of SQL? How are NoSQL solutions trying to address them (name three)? (7 points)
 
-fill-in-your-answer
+In SQL, data must be put into tables (rows and columns), but in NoSQL data can be stored without tables. In SQL, you always have to worry about the schema, but NoSQL is schema-less. SQL doesn’t work well with storing unstructured data, but NoSQL databases can do that well. SQL has a single point of failure, but NoSQL has graceful failure. NoSQL solutions are easier for horizontal scaling as well.
 
 # Tableau (II) (3 points x 4 + 5 points x 7 = 47 points)
 
@@ -32,63 +32,67 @@ fill-in-your-answer
 
 ### 1 (3 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/ltm06dJ.jpg)
 
 ### 2 (3 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/I7uxsFZ.jpg)
 
 ### 3 (3 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/5Xnslxw.jpg)
 
 ### 4 (3 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/yTHOVrf.jpg)
 
 ## Challenges
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/mcLNHkL.jpg)
 
-{{one-paragraph-discussion-of-your-answer}}
+From the visualization, we can see that Miami, Florida and Atlanta, Georgia are two cities that are generating relatively big sales figures but are barely making any money. The relatively large size of the circle shows that they have big sales, but the gray color of the circle indicates very low profits.
 
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/OgIFaHi.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+The combination of the corporate segment and the technology department generated the highest total profit. You can see this from the actual value in the table, but also from the color gradient.
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/j8LuKVI.jpg)
 
-{{one-paragraph-discussion-of-your-answer}}
+Argentina is similar to Egypt in terms of sales because the size of the pie chart is almost the same, but Argentina had trouble turning a profit in furniture. South Korea is another country similar to Egypt in terms of sales because of the size of the pie chart, but had trouble turning a profit in office supplies.
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/qBVaRAN.jpg)
 
-{{one-paragraph-discussion-of-your-answer}}
+Durango, Colorado is losing a significant amount of money in respect to home office customer segment with delivery truck ship mode. Galesburg, Illinois is losing a significant amount of money in respect to home office with delivery truck. Boise, Idaho is losing a significant amount of money in respect to consumer customer segment with regular air ship mode. Bozeman, Montana is losing lots of money in home office customer segment with regular air ship mode.
 
 ### 5 (5 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/iB3mjnA.jpg)
 
-{{one-paragraph-discussion-of-your-answer}}
+Because of the filled map with a color gradient, we can see that Texas significantly outperformed California in terms of profit in the consumer customer segment. 
 
 ### 6 (5 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/pVPm855.jpg)
 
-{{one-paragraph-discussion-of-your-answer}}
+Yes, the boss was correct. Montana is paying way too much on average for shipping by truck compared to all the other states. We can see this in the visualization because Montana is a much darker shade of green than all other states and the color gradient relates to average shipping cost by delivery by truck.
 
 ### 7 (5 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/Nz3EXHT.jpg)
 
-{{one-paragraph-discussion-of-your-answer}}
+[Imgur](http://i.imgur.com/U4yGOUT)
+
+[Imgur](http://i.imgur.com/GwQxQgT)
+
+First, I created a filled map and the USA and used sum of sales as a filter to get a total of 4 states that are similar in market size. Using profits for color, we can see that Colorado is not the best performer. Using shipping cost for color, we can see that Colorado has a relatively low shipping cost. In annual sales growth, Colorado is the only state that has negative growth.
 
 
 # MongoDB 1
@@ -97,7 +101,7 @@ fill-in-your-answer
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/PsjrsQJ.jpg)
 
 ### 2 (5 points)
 
