@@ -10,21 +10,30 @@ Justin McBride
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+3 hours
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Getting MongoDB to run properly
 
 # Show and tell (9 points)
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-article-comparing-nosql-and-sql)
+[http://www.mongodb.com/nosql-explained](http://www.mongodb.com/nosql-explained)
 
 ## What are the limitations of SQL? How are NoSQL solutions trying to address them (name three)? (7 points)
 
-Stuff
+Limitations of SQL:
+Only one server.
+Redundancy requires complete replication.
+Slower with large data.
+Strict format.
+
+NoSQL Solutions:
+Completely loose document storage schema.
+Usually horizontally scalable.
+Usually lots of support due to the open-soruce nature.
 
 # Tableau (II) (3 points x 4 + 5 points x 7 = 47 points)
 
