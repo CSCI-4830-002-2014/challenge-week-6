@@ -10,21 +10,24 @@ Jake White
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+7
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+ - MongoDB + NodeJS + Github API 
+ - getting the mongo software to work
 
 # Show and tell (9 points)
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-article-comparing-nosql-and-sql)
+[What are the limitations of SQL?](http://www.quora.com/What-are-the-limitations-of-SQL)
 
 ## What are the limitations of SQL? How are NoSQL solutions trying to address them (name three)? (7 points)
 
-fill-in-your-answer
+"SQL relations must have a fixed set of columns.  This is a frequent annoyance of software developers, and drives the demand for non-relational databases."
+"Maximum memory utilized by SQL Server Database Engine is 1GB"
+"SQL can't handle recursion"
 
 # Tableau (II) (3 points x 4 + 5 points x 7 = 47 points)
 
