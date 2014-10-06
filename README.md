@@ -7,10 +7,10 @@ Dawson Botsford
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
-[loading]
+7
 
 # What is the most difficult part about this week's challenge?
-[loading]
+Hitting the data limit for GitHub. Too many programmers living in one house...
 
 # Show and tell (9 points)
 
@@ -135,6 +135,6 @@ We began this visualization by filtering by sum(sales). Colorado has a sum of $1
 
 ### 4 (6 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/mD3RYdx.jpg)
 
 [mongodb4.js](mongodb4.js)
