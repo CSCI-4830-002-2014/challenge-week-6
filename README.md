@@ -4,27 +4,34 @@ Brian Newsom
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+6
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+The last MongoDB challenge - connecting those two ideas was not easy for me.
 
 # Show and tell (9 points)
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-article-comparing-nosql-and-sql)
+[SQL vs. NoSQL: Which Is Better?](http://news.dice.com/2012/07/16/sql-vs-nosql-which-is-better/)
 
 ## What are the limitations of SQL? How are NoSQL solutions trying to address them (name three)? (7 points)
 
-fill-in-your-answer
+1.)  Joins on large data sets are painfully slow.
+NOSQL allows for much more sharding and distribution across nodes, in addition to allowing caching of data.  SQL can scale, but is more fit for vertical rather than horizontal scaling which is generally more expensive.
+
+2.)  In SQL, you must define your data types before you can insert data into the table
+NOSQL allows for dynamic data and types which is great for unstructured data.
+
+3.)  Writing client code for accessing SQL databases is difficult.
+NOSQL databases are generally easier to work with using objects and their accessors. 
 
 # Tableau (II) (3 points x 4 + 5 points x 7 = 47 points)
 
