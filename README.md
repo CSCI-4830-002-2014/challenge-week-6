@@ -4,7 +4,7 @@ Logan Bates
 
 # How many points have you earned?
 
-80/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -20,11 +20,16 @@ Mongo Challege 4
 
 ## Link (2 points)
 
-[SQL vs NoSQL Database Differences Explained with few Example DB](http://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/)
+[SQL vs NoSQL Database Differences Explained with few Example DB](http://www.mongodb.com/nosql-explained)
 
 ## What are the limitations of SQL? How are NoSQL solutions trying to address them (name three)? (7 points)
 
-fill-in-your-answer
+SQL must be scaled vertically, which means that a server must scale up its processing and storage to deal with increased demand. Scaling across multiple databases is difficult to do with SQL. NoSQL uses horizontal scaling, meaning you can add more servers/cloud instances. NoSQL databases spread the data across several servers automatically. 
+
+If you are a developer using SQL, you may not be able to modify the source code to your liking, because some instances are closed source (Oracle), whereas NoSQL is completely open-source.
+
+SQL uses a specific language to manipulate its data (SELECT, FROM, WHERE)
+while NoSQL uses specific object-oriented APIs which allow some custom appr
 
 # Tableau (II) (3 points x 4 + 5 points x 7 = 47 points)
 
