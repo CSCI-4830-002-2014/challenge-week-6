@@ -57,43 +57,51 @@ The NOSQL databases are horizontally scalable, where you can incorporate 16 comp
 
 ![image](http://imgur.com/Dtqjtst.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+Through this diagram, I created a map of United States cities relative to sales and profits.
+Sales are displayed by the size of the diagrammed circles and profits were displayed by a Red-Green 
+transitional shade bar. By this Tableau worksheet I found that the top two cities that make large sales and small profits
+are mainly Miami and Detroit. A few others, such as Atlanta and Charlotte, were similar but did not compare as closely.
 
 ### 2 (5 points)
 
 ![image](http://imgur.com/FwWurYs.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+This worksheet shows the relationships between customer segments vs. certain departments. 
+By the colored display table I found that the corporate customer segment and Technology 
+department generated the highest total profit. Also, the consumer customer segment and Furniture 
+department generated the lowest total profit. Through this worksheet we determined all total profits
+relative to customer segments and departments. 
 
 ### 3 (5 points)
 
 ![image](http://imgur.com/PfB6ECv.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+Egypt had a profit of $50.6K compared to a sales margin of $190.5K in the office supplies department. Two other countries were similar in the same industry, with one being the Republic of Korea in office supplies (profit: $18K, sales: $114.8K). Another similar country that didn't profit well in office supplies was France (profit: $30.6K, sales: $136.4K). By this worksheet, one can determine what countries dominate the trade of materials in certain departments. 
+
 
 ### 4 (5 points)
 
 ![image](http://imgur.com/WKr8m0Q.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+By observing the diagrams, we can see that deliveries to home offices have given Durango, CO and Galesburg,IL significant money loss. Boise, ID has lost a significant amount through regular air shipping to consumers. Also, Bozeman, Montana had a negative profit of $13,554.28 through air shipping to home offices. through these comparisons, one can find which cities profit from certain modes of shipping versus the type of consumer segment something is being shipped to.
 
 ### 5 (5 points)
 
 ![image](http://imgur.com/IsxPRfM.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+Texas outperformed California in consumer profits. The red shade of California describes a lower profit margin. The green shade of Texas shows that the consumer segment profited more in Texas than California. The other diagrams do the same comparisons of profit versus the type of customer segment.
 
 ### 6 (5 points)
 
 ![image](http://imgur.com/AewTsNj.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+Yes, Montana is paying $63.96  on average, which is far greater than nearly all other states in the United States. Colorado has an average shipping cost of $40.34, which is less in delivery truck  shipping costs than Montana. By accidental input of Nuevo Leon in Mexico, this state is the closest comparison to Montana's average shipping cost. There also isn't a huge correlation of shipping costs for delivery trucks in the United States.Therefore, Montana is paying way too much in shipping costs by this worksheet done in Tableau.
 
 ### 7 (5 points)
 
 ![image](http://imgur.com/XZtekX2.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+The total sales of Colorado was $132.2K. Other states had very similar total sales such as: Alabama, Maryland, New Jersey, and Arizona. But Colorado had differences in sales when it came down to department types. Colorado makes more in furniture sales than Alabama does. Also, Maryland made $75K in furniture sales, which is greater than Colorado did in that department. New Jersey made more sales in furniture and office supplies. Finally, Arizona had higher Technology sales than Colorado, but less furniture sales.
 
 
 # MongoDB 1
