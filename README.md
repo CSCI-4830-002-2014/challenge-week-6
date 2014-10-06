@@ -106,30 +106,30 @@ We began this visualization by filtering by sum(sales). Colorado has a sum of $1
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/tZBvgCK.png)
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/EY5ehww.png)
 
 ## Challenges
 
 
 ### 1 (6 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/VFR8fEf.png)
 
 [mongodb1.js](mongodb1.js)
 
 ### 2 (6 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/QWHfOUm.png)
 
 [mongodb2.js](mongodb2.js)
 
 ### 3 (6 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/qOz5WM2.png)
 
 [mongodb3.js](mongodb3.js)
 
