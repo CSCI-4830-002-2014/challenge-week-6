@@ -97,26 +97,26 @@ fill-in-your-answer
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/21xGX75.png)
 
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/o3qvNWt.png)
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/vxN47R0.png)
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/ifIRL9u.png)
 
 ## Challenges
 
 
 ### 1 (6 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/pGlVwtc.png)
 
 [mongodb1.js](mongodb1.js)
 
