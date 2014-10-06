@@ -4,7 +4,7 @@ Jake White
 
 # How many points have you earned?
 
-0/100
+77/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
