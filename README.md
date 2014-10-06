@@ -104,43 +104,43 @@ Colorado's per capita income is on the highest range 31,300 to 49,500
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/Week%206/b.chk1.png)
 
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/Week%206/b.chk2.png)
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/Week%206/b.chk3.png)
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/Week%206/b.chk4.png)
 
 ## Challenges
 
 
 ### 1 (6 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/Week%206/b.chl1.png)
 
 [mongodb1.js](mongodb1.js)
 
 ### 2 (6 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/Week%206/l.png)
 
 [mongodb2.js](mongodb2.js)
 
 ### 3 (6 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/Week%206/b.chl2.png)
 
 [mongodb3.js](mongodb3.js)
 
 ### 4 (6 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/Week%206/b.chl3.png)
 
 [mongodb4.js](mongodb4.js)
