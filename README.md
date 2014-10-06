@@ -54,43 +54,43 @@ NoSQL has no fixed schema, you can scale horizontally and in NoSQL you can modif
 
 ![image](tchal1.png?raw=true)
 
-{{Miami, Florida and Atlanta, Georgia were two big cities that did not turn a huge profit. }}
+Miami, Florida and Atlanta, Georgia were two big cities that did not turn a huge profit.
 
 ### 2 (5 points)
 
 ![image](tchal2.png?raw=true)
 
-{{The Corporate Customer segment and technology department had the highest total profit which was 1.3 million.}}
+The Corporate Customer segment and technology department had the highest total profit which was 1.3 million.
 
 ### 3 (5 points)
 
 ![image](tchal3.png?raw=true)
 
-{{France and Korea had similar sales for sales. France struggled in sales for office supplies while Korea had bad sales in Furniture.}}
+France and Korea had similar sales for sales. France struggled in sales for office supplies while Korea had bad sales in Furniture.
     
 ### 4 (5 points)
 
 ![image](tchal4.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+For Delivery Truck/Consumer combination, Redding, CA is generating negative profit. For Regular Air/Home Office, Bozeman, MT is losing a huge amount of money. Galesburg IL is losing money for Delivery Truck Small Businesses. Ft. Collins, CO is losing profit with Delivery/Small Business. 
 
 ### 5 (5 points)
 
 ![image](tchal5.png?raw=true)
 
-{{Texas significantly outperformed California in consumer total profits.}}
+Texas significantly outperformed California in consumer total profits.
 
 ### 6 (5 points)
 
 ![image](tchal6.png?raw=true)
 
-{{Definitely, some states like Montana and Missouri have significantly higher shipping by truck cksts. }}
+Definitely, some states like Montana and Missouri have significantly higher shipping by truck costs.
 
 ### 7 (5 points)
 
-![image](image.png?raw=true)
+![image](tchal7.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+Comparatively, Colorado has higher sales than similar states in Storage & Organization catergory, while it had much lower sales than similar states in office machines.
 
 
 # MongoDB 1

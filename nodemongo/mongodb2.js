@@ -11,7 +11,6 @@ MongoClient.connect('mongodb://127.0.0.1:27017/test', function(err, db) {
   });
  
   rest.get('https://api.github.com/orgs/CSCI-4830-002-2014/events').on('complete', function(data) {
-    console.log(data)
  
     // Create a collection to store the results from github
     var collection = db.collection('4830Events');
@@ -20,7 +19,7 @@ MongoClient.connect('mongodb://127.0.0.1:27017/test', function(err, db) {
        // Locate all the entries using find
       collection.find().toArray(function(err, results) {
         results.forEach(function(x){
-          console.log("name:" + x.name + ", owner.login:" + x.owner.login);
+          console.log(x);
         });
         // Let's close the db
         db.close();
