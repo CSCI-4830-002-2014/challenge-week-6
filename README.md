@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Irfan Nadiadi
 
 # How many points have you earned?
 
@@ -32,61 +32,61 @@ fill-in-your-answer
 
 ### 1 (3 points)
 
-![image](image.png?raw=true)
+![image](Checkpoints/t1.png)
 
 ### 2 (3 points)
 
-![image](image.png?raw=true)
+![image](Checkpoints/t2.png)
 
 ### 3 (3 points)
 
-![image](image.png?raw=true)
+![image](Checkpoints/t3.png)
 
 ### 4 (3 points)
 
-![image](image.png?raw=true)
+![image](Checkpoints/t4.png)
 
 ## Challenges
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](Challenges/t1.png)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+![image](Challenges/t2.png)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](Challenges/t3.png)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](Challenges/t4.png)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 5 (5 points)
 
-![image](image.png?raw=true)
+![image](Challenges/t5.png)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 6 (5 points)
 
-![image](image.png?raw=true)
+![image](Challenges/t6.png)
 
 {{one-paragraph-discussion-of-your-answer}}
 
 ### 7 (5 points)
 
-![image](image.png?raw=true)
+![image](Challenges/t1.png)
 
 {{one-paragraph-discussion-of-your-answer}}
 
@@ -97,7 +97,7 @@ fill-in-your-answer
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](Checkpoints/m1.png)
 
 ### 2 (5 points)
 
