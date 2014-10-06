@@ -9,7 +9,8 @@ Austin Wood
 # How many hours have you spent on this?
 
 7pm-8pm
-10:20pm-
+10:20pm-11:45pm.
+2pm
 
 # What is the most difficult part about this week's challenge?
 
@@ -97,43 +98,42 @@ The most notable thing is the fact that in consumer and corporate express air, a
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![checkpoint 1](images/mongodb_cp1.png?raw=true)
 
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+![checkpoint 2](images/mongodb_cp2.png?raw=true)
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![checkpoint 3](images/mongodb_cp3.png?raw=true)
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![checkpoint 4](images/mongodb_cp4.png?raw=true)
 
 ## Challenges
 
-
 ### 1 (6 points)
 
-![image](image.png?raw=true)
+![challenge 1](images/mongodb_ch1.png?raw=true)
 
 [mongodb1.js](mongodb1.js)
 
 ### 2 (6 points)
 
-![image](image.png?raw=true)
+![challenge 2](images/mongodb_ch2.png?raw=true)
 
 [mongodb2.js](mongodb2.js)
 
 ### 3 (6 points)
 
-![image](image.png?raw=true)
+![challenge 3](images/mongodb_ch3.png?raw=true)
 
 [mongodb3.js](mongodb3.js)
 
 ### 4 (6 points)
 
-![image](image.png?raw=true)
+![challenge 4](images/mongodb_ch4.png?raw=true)
 
 [mongodb4.js](mongodb4.js)
