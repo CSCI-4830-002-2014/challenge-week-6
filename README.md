@@ -84,7 +84,8 @@ fill-in-your-answer
 
 ### 7 (5 points)
 
-![image](screenshots/tableau-challenge7.png?raw=true)
+![image](screenshots/tableau-challenge7a.png?raw=true)
+![image](screenshots/tableau-challenge7b.png?raw=true)
 
 {{one-paragraph-discussion-of-your-answer}}
 
@@ -132,6 +133,6 @@ fill-in-your-answer
 
 ### 4 (6 points)
 
-![image](screenshots/mongo-challenge3.png?raw=true)
+![image](screenshots/mongo-challenge4.png?raw=true)
 
 [mongodb4.js](mongodb4.js)
