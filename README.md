@@ -35,57 +35,59 @@ Jake White
 
 ### 1 (3 points)
 
-![image](image.png?raw=true)
+
+
+![image](http://i.imgur.com/WaCndOj.png)
 
 ### 2 (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/Kx61fzS.png)
 
 ### 3 (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/aS8RaYf.png)
 
 ### 4 (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/9Jo6Jtg.png)
 
 ## Challenges
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/uERlFwz.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+{{Florida and Georgia make a lot of money, but not a lot of profit. Had trouble loading city data measurement, so it is sorted by state.}}
 
 ### 2 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/BC4TSLO.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+{{ the highest total profit came from the corperate customers within the technology department}}
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/5Xi67XY.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+{{ france is similar to eygpt in that nearly 50% of their profit comes from the technology departmen and a very small portion of their respected profits come from office supplies.}}
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/jtkjlXp.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+{{It looks as if consumer's using delivery trucks in California are not profitting very much. Also, Home Offices using delivery trucks in Colorado are not very successfull. Home office customers using regular air in montana do not do very well.}}
 
 ### 5 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/GDExpkw.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+{{ within the consumer customer segment california was significantly out preformed by texas in terms of profit}}
 
 ### 6 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/ixbKL1Q.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+{{within this visualisation, state average delivery cost of delivery trucks is sorted by each state. Here we see Montana has a high average shipping cost (~$63) associated with delivery truck methods, when compared to North Dakota's average shipping cost of ~$35}}
 
 ### 7 (5 points)
 
