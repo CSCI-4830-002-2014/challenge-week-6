@@ -19,7 +19,7 @@ I had a tough time getting MongoDB setup in OS X, and eventually gave up and ran
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-article-comparing-nosql-and-sql)
+[Comparing SPARQL with SQL](http://www.topquadrant.com/2014/05/05/comparing-sparql-with-sql/)
 
 ## What are the limitations of SQL? How are NoSQL solutions trying to address them (name three)? (7 points)
 
