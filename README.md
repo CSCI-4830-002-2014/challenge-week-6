@@ -4,7 +4,7 @@ Niklas Fejes
 
 # How many points have you earned?
 
-93/100
+100/100
 
 # How many hours have you spent on this?
 
@@ -18,11 +18,21 @@ fill-in-your-answer
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-article-comparing-nosql-and-sql)
+[SQL and NoSQL Comparison: When is a NoSQL database a better option than a "traditional" RDBMS?](http://www.datavail.com/category-blog/sql-and-nosql-database-comparison-when-is-a-nosql-database-a-better-option-than-a-traditional-rdbms/)
 
 ## What are the limitations of SQL? How are NoSQL solutions trying to address them (name three)? (7 points)
 
-fill-in-your-answer
+One of the limitations that SQL has is that once you have created a table and started using
+it, all data you put in it must have the same data field. An SQL database can be seen as a 
+table with fixed columns. What NoSQL is doing is having a collection of key-value pairs,
+where the value can be data of any type.
+
+SQL servers are vertically scalable, which means that to get better performance / bigger
+capacity you need to increase CPU, RAM, SSD etc. NoQSL databases are vertically scalable,
+so to improve performance you can add more servers.
+
+SQL databases are not suited for Big Data data storage, where scalability and storage of
+key-value pairs are needed. NoSQL solutions are often designed to address these problems.
 
 # Tableau (II) (3 points x 4 + 5 points x 7 = 47 points)
 
