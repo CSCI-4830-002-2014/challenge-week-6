@@ -1,50 +1,45 @@
-var restler = require('restler');
+var rest = require('restler');
 var MongoClient = require('mongodb').MongoClient;
-
-/*
-MongoClient.connect('mongodb://127.0.0.1:27017/test', function(err, db) {
-    if(err) throw err;
-
-	console.log(">> Dropping collection");
-	db.dropCollection('test_insert_github', function(err, result) {
-		console.log("dropped: ");
-		console.dir(result);
-	});
- 
-	async.map([1,2,3,4,5,6,7,8,9,10], getClassEventsForPage, function(err, results) {
-		flattened = flatten_fast(results);
-	});
-
-	db.close();
-})*/
+var async = require('async');
 
 MongoClient.connect('mongodb://127.0.0.1:27017/test', function(err, db) {
-    if(err) throw err;
+	if(err) throw err;
 
 	console.log(">> Dropping collection");
-	db.dropCollection('test_insert_github', function(err, result) {
+	db.dropCollection('github_course_events', function(err, result) {
 		console.log("dropped: ");
 		console.dir(result);
 	});
 
-	var collection = db.collection('test_insert_github');
-
-	for (var i = 1; i < 11; i++) {
+	function getClassEventsForPage(i, callback) {
 		var page = 'https://api.github.com/orgs/CSCI-4830-002-2014/events?page=' + i;
-		restler.get(page).on('complete', function(data) {
-			console.log("inside complete");
-    		collection.insert(data, function(err, docs) {
-    			console.log("something was added");	
-			});
-		})
+		rest.get(page).on('complete', function(data) {
+
+    var collection = db.collection('github_events');
+    collection.insert(data, function(err, docs) {
+       // Locate all the entries using find
+       collection.find().toArray(function(err, results) {
+       	results.forEach(function(x){
+       		console.log("id:" + x.id + ", type:" + x.type + ", actor.login:" + x.actor.login);
+       	});
+    });       
+   });
+});
+
+
+		async.map([1,2,3,4,5,6,7,8,9,10], getClassEventsForPage, function(err, results){
+			flattened = flatten_fast(results);    
+			console.log(JSON.stringify(flattened, undefined, 4));
+		});
+		db.close();
+	}})
+
+function flatten_fast(input) {
+	var flattened=[];
+	for (var i=0; i<input.length; ++i) {
+		var current = input[i];
+		for (var j=0; j<current.length; ++j)
+			flattened.push(current[j]);
 	}
-
-	// Locate all the entries using find
-	collection.find().toArray(function(err, results) {
-		results.forEach(function(x) {
-			console.log("name:" + x.actor.login + ", type:" + x.type);
-		});  
-    });
-
-	db.close();
-})
+	return flattened;
+}
