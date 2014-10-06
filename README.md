@@ -21,7 +21,7 @@ question 4 of the MongoDB Challenge.
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-article-comparing-nosql-and-sql)
+[http://wildermuth.com/2014/8/3/Can_t_We_Just_Get_Along_The_Spurious_NoSQL_Battle](http://wildermuth.com/2014/8/3/Can_t_We_Just_Get_Along_The_Spurious_NoSQL_Battle)
 
 ## What are the limitations of SQL? How are NoSQL solutions trying to address them (name three)? (7 points)
 
