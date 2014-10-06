@@ -10,7 +10,8 @@ function getEvents(i, callback) {
 		this.retry(1000);
 	}
 	else {
-		console.log(data);
+		callback(null, data);
+		//console.log(data);
 	}
 	});
 };
@@ -30,18 +31,22 @@ MongoClient.connect('mongodb://127.0.0.1:27017/test', function(err, db) {
     	console.log("dropped: ");
     	console.dir(result);
   	});
-
-  	var collection = db.collection('course_events');
-
+  	
 	async.map([1,2,3,4,5,6,7,8,9,10], getEvents, function(err, results){
 		flattened = flatten_slow(results);    
-		console.log(JSON.stringify(flattened, undefined, 4));
+	  	var collection = db.collection('course_events');
+		//console.log(JSON.stringify(flattened, undefined, 4));
 		collection.insert(flattened, function(err, results) {
-			console.log(collection.find());
+			collection.find().toArray(function(err, fResults) {
+				fResults.forEach(function(x) {
+					console.log("type:" + x.type + ', user:' + x.actor.login + ', repo:' + x.repo.name);
+				});
+			db.close();
+			});
 		})
 	});
+	
 
-	db.close();
-
+	
 })
 
