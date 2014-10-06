@@ -12,7 +12,7 @@ Niklas Fejes
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+It took some time to get MongoDB setup.
 
 # Show and tell (9 points)
 
