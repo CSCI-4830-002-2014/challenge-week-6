@@ -54,20 +54,20 @@ NoSQL has no fixed schema, you can scale horizontally and in NoSQL you can modif
 
 ![image](tchal1.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+{{Miami, Florida and Atlanta, Georgia were two big cities that did not turn a huge profit. }}
 
 ### 2 (5 points)
 
 ![image](tchal2.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+{{The Corporate Customer segment and technology department had the highest total profit which was 1.3 million.}}
 
 ### 3 (5 points)
 
 ![image](tchal3.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
-
+{{France and Korea had similar sales for sales. France struggled in sales for office supplies while Korea had bad sales in Furniture.}}
+    
 ### 4 (5 points)
 
 ![image](tchal4.png?raw=true)
@@ -78,13 +78,13 @@ NoSQL has no fixed schema, you can scale horizontally and in NoSQL you can modif
 
 ![image](tchal5.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+{{Texas significantly outperformed California in consumer total profits.}}
 
 ### 6 (5 points)
 
 ![image](tchal6.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+{{Definitely, some states like Montana and Missouri have significantly higher shipping by truck cksts. }}
 
 ### 7 (5 points)
 
