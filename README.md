@@ -10,21 +10,23 @@ Peyman Mortazavi
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+8 hours
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Last challenge of MongoDB
 
 # Show and tell (9 points)
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-article-comparing-nosql-and-sql)
+[When NoSQL makes better sense than MySQL](https://www.ibm.com/developerworks/community/blogs/theTechTrek/entry/when_nosql_makes_better_sense_than_mysql8?lang=en)
 
 ## What are the limitations of SQL? How are NoSQL solutions trying to address them (name three)? (7 points)
 
-fill-in-your-answer
+(1) Scalibility.
+(2) Dynamic Structure. While in a NoSQL database, you can have different data structures in same collection, in SQL, you can't.
+(3) Speed.
 
 # Tableau (II) (3 points x 4 + 5 points x 7 = 47 points)
 
