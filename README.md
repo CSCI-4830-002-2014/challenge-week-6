@@ -93,7 +93,15 @@ By looking at the average cost of shipping by truck for each state, there is def
 
 ![image](challenge7.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+The total sales of Colorado are $132.2k.
+
+Arizona, Kansas, Missouri, and Alabama all had similar sales to colorado (within $20k).
+
+These states differ greatly in customer segment.
+
+The states differ greatly by unit price.
+
+Colorado stands out because it has a significantly higher unit cost for Home Office and Small Business
 
 
 # MongoDB 1
