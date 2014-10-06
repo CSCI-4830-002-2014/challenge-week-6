@@ -4,27 +4,25 @@ Austin Wood
 
 # How many points have you earned?
 
-0/100
+100/100
 
 # How many hours have you spent on this?
 
-7pm-8pm
-10:20pm-11:45pm.
-2pm
+6 hours
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+It was difficult (but also fun and rewarding) to create the scripts for mongodb challenge 3 and 4.
 
 # Show and tell (9 points)
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-article-comparing-nosql-and-sql)
+[NOSQL DATABASES EXPLAINED](http://www.mongodb.com/nosql-explained)
 
 ## What are the limitations of SQL? How are NoSQL solutions trying to address them (name three)? (7 points)
 
-fill-in-your-answer
+SQL has one type (SQL database) with minor variations. To combat this, NOSQL databases have many different types including key-value stores, document databases, wide-column stores, and graph databases. The schemas in SQL databases are also a big deal. Most of the time, the structure and data types are fixed in advance. If new information is wanted to be stored, the entire database must be altered. NOSQL is typically dynamic, allowing records to be added or modified on the fly. What I feel like is the largest setback is scaling. SQL scales vertically, meaning that a single server must be made increasingly powerful in order to deal with increaded demand. NOSQL scales horizontally, meaning that to add capacity, a database administrator can simply add more commodity servers or cloud instances. This is vitally important.
 
 # Tableau (II) (3 points x 4 + 5 points x 7 = 47 points)
 
@@ -118,22 +116,22 @@ The most notable thing is the fact that in consumer and corporate express air, a
 
 ![challenge 1](images/mongodb_ch1.png?raw=true)
 
-[mongodb1.js](mongodb1.js)
+[mongodb1.js](mongodb/mongodb1.js)
 
 ### 2 (6 points)
 
 ![challenge 2](images/mongodb_ch2.png?raw=true)
 
-[mongodb2.js](mongodb2.js)
+[mongodb2.js](mongodb/mongodb2.js)
 
 ### 3 (6 points)
 
 ![challenge 3](images/mongodb_ch3.png?raw=true)
 
-[mongodb3.js](mongodb3.js)
+[mongodb3.js](mongodb/mongodb3.js)
 
 ### 4 (6 points)
 
 ![challenge 4](images/mongodb_ch4.png?raw=true)
 
-[mongodb4.js](mongodb4.js)
+[mongodb4.js](mongodb/mongodb4.js)
